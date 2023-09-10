@@ -47,4 +47,3 @@ class Fruit
 $apple = new Fruit();
 $apple->set_name("Apple");
 $apple->set_color("Red");
-$apple->set_weight("weight");
